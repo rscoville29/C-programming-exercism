@@ -1,4 +1,4 @@
-#include "pangram.h"
+#include "isPangram.h"
 #include <string.h>
 #include <ctype.h>
 
